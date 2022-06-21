@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(34, 33, 33);
+}
+main {
+  margin-left: 22px;
+  margin-right: 22px;
+}
+header {
+  background-color: rgb(0, 0, 0);
+  width: 100%;
+}
+a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  padding: 9px;
+  float: right;
+  margin-top: 17px;
+  margin-right: 17px;
+  border-radius: 12px;
+}
+h3 {
+  text-align: center;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  color: white;
+}
+p {
+  text-align: center;
+  margin-top: 20px;
+  color: white;
+}
+td,
+th {
+  border-left: 1px solid rgb(255, 255, 255);
+  border-bottom: 1px solid rgb(255, 255, 255);
+  padding: 20px;
+  color: white;
+}
+
+table {
+  border-top: 1px solid rgb(255, 255, 255);
+  border-right: 1px solid rgb(255, 255, 255);
+  border-collapse: collapse;
+}
